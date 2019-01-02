@@ -1,3 +1,3 @@
 # PJ1
 
-my first repository on GITHUB
+My first repository on GITHUB
